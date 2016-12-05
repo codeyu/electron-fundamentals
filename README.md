@@ -11,5 +11,6 @@
 * [countdown](/countdown)
 * [appmenu](/appmenu)
 * [systemtray](/systemtray)
+* [clipboardbuffer](/clipboardbuffer)
 
 
